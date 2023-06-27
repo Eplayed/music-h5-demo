@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmusic_h5"]=self["webpackChunkmusic_h5"]||[]).push([[443],{6434:function(n,u,s){s.r(u),s.d(u,{default:function(){return f}});var t=s(6205);const a={class:"about"},c=(0,t._)("h1",null,"This is an about page",-1),e=[c];function r(n,u){return(0,t.wg)(),(0,t.iD)("div",a,e)}var i=s(7692);const h={},o=(0,i.Z)(h,[["render",r]]);var f=o}}]);
+//# sourceMappingURL=about.704ca839.js.map
